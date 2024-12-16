@@ -42,3 +42,7 @@ Thumbs.db
 .env
 .Environment
 .ENVIRONMENT
+
+# This is to test #
+###################
+This is just for testing.
