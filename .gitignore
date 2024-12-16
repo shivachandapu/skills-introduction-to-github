@@ -35,3 +35,10 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Environment Files #
+######################
+.ENV
+.env
+.Environment
+.ENVIRONMENT
